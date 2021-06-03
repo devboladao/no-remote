@@ -1,4 +1,4 @@
-# No Remote Tetch
+# No Remote Tech
 
 Está lista contem nome de empresas que não aceitaram trabalho remoto durante a pandemia:
 
