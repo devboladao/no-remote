@@ -5,6 +5,7 @@ Está lista contem nome de empresas que não aceitaram trabalho remoto durante a
 -------------------
 
 ## empresas
+
 Nome | Status | Motivação 
 ---- | ---- | ----
 [Livre Cartões](https://livre.com.br/) | ![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square) | A empresa não usa ferramentas de gerenciamento de projeto e donos da empresas preferem não trabalha remotamente.
